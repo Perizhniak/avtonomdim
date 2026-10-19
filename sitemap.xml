@@ -22,6 +22,9 @@
     <loc>https://perizhniak.github.io/avtonomdim/ecoflow-vs-inverter.html</loc>
   </url>
   <url>
+    <loc>https://perizhniak.github.io/avtonomdim/electrical-panel-backup.html</loc>
+  </url>
+  <url>
     <loc>https://perizhniak.github.io/avtonomdim/energy-use.html</loc>
   </url>
   <url>
@@ -49,9 +52,12 @@
     <loc>https://perizhniak.github.io/avtonomdim/router-battery.html</loc>
   </url>
   <url>
+    <loc>https://perizhniak.github.io/avtonomdim/solar-charge-controller-pwm-mppt.html</loc>
+  </url>
+  <url>
     <loc>https://perizhniak.github.io/avtonomdim/solar-panels.html</loc>
   </url>
   <url>
     <loc>https://perizhniak.github.io/avtonomdim/solar-winter.html</loc>
   </url>
-<url><loc>https://perizhniak.github.io/avtonomdim/electrical-panel-backup.html</loc></url></urlset>
+</urlset>
